@@ -1,0 +1,18 @@
+body{
+    margin:1%;
+}
+/*container*/
+.title{
+    background-color: rgb(128, 128, 111);
+    text-align: center;
+}
+/*main-content*/
+img{
+    padding-top: 1%;
+    width:400px;
+    height:500px;
+}
+.main-content{
+    margin:1%;
+    background-color:white;
+}
